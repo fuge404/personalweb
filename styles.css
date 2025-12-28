@@ -201,6 +201,7 @@ header{
 .btn{
     display: inline-block;
     background-color: #e63946;
+    margin-right: 35px;
     color: white;
     font-weight: 700;
     padding: 1rem 2rem;
@@ -348,4 +349,5 @@ header{
     .Hero-text h1 {
         font-size: 2.2rem;
     }
+
 }
